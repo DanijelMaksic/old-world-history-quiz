@@ -1,0 +1,145 @@
+{
+   "questions": [
+      {
+         "question": "Which civilization invented writing using clay tablets?",
+         "options": ["Egypt", "Sumer", "Akkad", "Elam"],
+         "correctOption": 1,
+         "points": 10,
+         "difficulty": "easy",
+         "id": "c88e"
+      },
+      {
+         "question": "Solon was the Athenian:",
+         "options": ["Farmer", "Poet", "Commander", "Lawgiver"],
+         "correctOption": 3,
+         "points": 20,
+         "difficulty": "medium",
+         "id": "d9f3"
+      },
+      {
+         "question": "What was the name of the famous horse of Alexander the Great?",
+         "options": ["Bucephalus", "Pegasus", "Xanthus", "Phobos"],
+         "correctOption": 0,
+         "points": 30,
+         "difficulty": "hard",
+         "id": "aa35"
+      },
+      {
+         "question": "Achaemenid dynasty ruled over:",
+         "options": ["Assyria", "India", "Persia", "Rome"],
+         "correctOption": 2,
+         "points": 20,
+         "difficulty": "medium",
+         "id": "c33f"
+      },
+      {
+         "question": "The Great Pyramid of Giza was built by which pharaoh?",
+         "options": ["Cheops", "Hatshepsut", "Ramesses II", "Tutankhamun"],
+         "correctOption": 0,
+         "points": 20,
+         "difficulty": "medium",
+         "id": "7cab"
+      },
+      {
+         "question": "After their escape from Egypt, tribe of Israel wandered in the desert of:",
+         "options": ["Sahara", "Sinai", "Arabia", "Nubia"],
+         "correctOption": 1,
+         "points": 10,
+         "difficulty": "easy",
+         "id": "0075"
+      },
+      {
+         "question": "Pyramids were built by:",
+         "options": ["Greeks", "Babylonians", "Hittites", "Egyptians"],
+         "correctOption": 3,
+         "points": 10,
+         "difficulty": "easy",
+         "id": "62ea"
+      },
+      {
+         "question": "Which philosopher was a teacher of Alexander the Great?",
+         "options": ["Plato", "Socrates", "Aristotle", "Thales"],
+         "correctOption": 2,
+         "points": 20,
+         "difficulty": "medium",
+         "id": "2565"
+      },
+      {
+         "question": "In the siege of Troy, to infiltrate the city invaders used a wooden:",
+         "options": ["Fish", "Snake", "Elephant", "Horse"],
+         "correctOption": 3,
+         "points": 10,
+         "difficulty": "easy",
+         "id": "f459"
+      },
+      {
+         "question": "What was Mycenae?",
+         "options": ["Mountain", "River", "Temple", "City"],
+         "correctOption": 3,
+         "points": 30,
+         "difficulty": "hard",
+         "id": "73c1"
+      },
+      {
+         "question": "Consuls were the highest elected public officials of the Roman Republic. How many consuls were elected each year?",
+         "options": ["16", "5", "2", "10"],
+         "correctOption": 2,
+         "points": 30,
+         "difficulty": "hard",
+         "id": "c93f"
+      },
+      {
+         "question": "Hamurabi was the ruler of?",
+         "options": ["Babylon", "Ur", "Nippur", "Ashur"],
+         "correctOption": 0,
+         "points": 20,
+         "difficulty": "hard",
+         "id": "9040"
+      },
+      {
+         "question": "Founder of Rome was:",
+         "options": ["Remus", "Numitor", "Romulus", "Ancus Marcius"],
+         "correctOption": 2,
+         "points": 10,
+         "difficulty": "easy",
+         "id": "38b0"
+      },
+      {
+         "question": "Which rivers acted as borders of Mesopotamia?",
+         "options": [
+            "Euphrates and Orontes",
+            "Tigris and Euphrates",
+            "Nile and Tigris",
+            "Tiber and Euphrates"
+         ],
+         "correctOption": 1,
+         "points": 10,
+         "difficulty": "easy",
+         "id": "1a88"
+      },
+      {
+         "question": "At the battle of Marathon, which elite unit did Persia use against the Spartans?",
+         "options": ["Kissians", "Medes", "Sakai", "Immortals"],
+         "correctOption": 3,
+         "points": 20,
+         "difficulty": "hard",
+         "id": "fca0"
+      },
+      {
+         "question": "Patricians and plebeians were part of a class system in which state?",
+         "options": ["Athens", "Rome", "Persia", "India"],
+         "correctOption": 1,
+         "points": 10,
+         "difficulty": "easy",
+         "id": "fca0"
+      },
+      {
+         "question": "Peloponnesian war was fought between Athens and:",
+         "options": ["Corinth", "Sparta", "Persia", "Macedonia"],
+         "correctOption": 1,
+         "points": 20,
+         "difficulty": "medium",
+         "id": "fca0"
+      }
+   ]
+}
