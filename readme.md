@@ -4,7 +4,7 @@ Old World History - Quiz is a React powered app that enables the user to test th
 
 In order to fetch and display the questions and highscore using JSON server, you need to run two commands in the console: `npm run questions-server` and `npm run highscore-server`.
 
-![quiz image](https://danijelmaksic.vercel.app/assets/quiz-BorbzWrh.webp)
+<br />
 
 ## Quiz setup
 
